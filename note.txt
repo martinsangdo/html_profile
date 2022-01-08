@@ -1,0 +1,12 @@
+- contact, locations
+- email
+- linkedin profile
+- download cv
+- About
+- experience
+- education
+- certificates
+- soft skills
+- tech skills
+- publication
+- portfolio

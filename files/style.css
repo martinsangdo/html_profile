@@ -1107,7 +1107,7 @@ blockquote {
       background-size: cover;
       cursor: pointer; }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_1 {
-        background-image: url("../img/img-bg-1.jpg"); }
+        background-image: url("../img/bg.jpg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_2 {
         background-image: url("../img/img-bg-2.jpg"); }
       .mdl-layout__drawer-right .hero-switcher-wrap ul li#imbg_3 {
@@ -1164,7 +1164,7 @@ blockquote {
   left: 0;
   top: 0; }
   .bg-struct.bg-img {
-    background: url("../img/img-bg-1.jpg");
+    background: url("../img/bg.jpg");
     background-position: center;
     background-size: cover; }
   .bg-struct.bg-img-2 {
